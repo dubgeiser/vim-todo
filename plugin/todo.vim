@@ -1,5 +1,5 @@
 " Description: simple todo lists
-" Author: P. Juchtmans
+" Author: Per Juchtmans <dubgeiser+vimtodo@gmail.com>
 " License: http://sam.zoy.org/wtfpl/COPYING
 "          No warranties, expressed or implied.
 "
